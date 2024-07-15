@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/nav_icon4.c209098c.svg"
   },
   {
-    "revision": "04eb8fc57f27498e5ae37523e3bfb2c7",
-    "url": "/portfolio/static/media/revicons.04eb8fc5.woff"
-  },
-  {
     "revision": "17629a5dfe0d3c3946cf401e1895f091",
     "url": "/portfolio/static/media/revicons.17629a5d.ttf"
+  },
+  {
+    "revision": "04eb8fc57f27498e5ae37523e3bfb2c7",
+    "url": "/portfolio/static/media/revicons.04eb8fc5.woff"
   },
   {
     "revision": "2feb69ccb596730c72920c6ba3e37ef8",
@@ -112,12 +112,12 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "63911e8535278ced52b8a37e819f6f5d",
-    "url": "/portfolio/static/media/CentraNo2-Medium.63911e85.ttf"
-  },
-  {
     "revision": "4ea3794d631bedab7999678f46b0a162",
     "url": "/portfolio/static/media/CentraNo2-Bold.4ea3794d.ttf"
+  },
+  {
+    "revision": "63911e8535278ced52b8a37e819f6f5d",
+    "url": "/portfolio/static/media/CentraNo2-Medium.63911e85.ttf"
   },
   {
     "revision": "386f05946a76935fcabf319affff517a",
