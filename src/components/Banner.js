@@ -59,7 +59,7 @@ export const Banner = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome to my Portfolio</span>
-                <span className="tagline" > <a target="_blank" href="https://drive.google.com/file/d/1cPOVlaZ2UrqKyZk__9Qjyk3-v8uYZdDm/view?usp=share_link" >view CV <ArrowRightCircle size={25} /></a></span>
+                <span className="tagline" > <a target="_blank" href="https://drive.google.com/file/d/1rAKCo8S2xjeJkTXKEL90irYN2EA331M0/view?usp=drive_link" >view CV <ArrowRightCircle size={25} /></a></span>
                 
                 <h1>{`Hello World, I'm Imad-Eddine , a`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Web Designer", "UI/UX Designer","Software Developper" ]'><span className="wrap">{text}</span></span></h1>
                   <p>Hello, I'm Imad-Eddine, a web developer passionate about creating professional and efficient websites. With my skills in web development, I'm here to help you create an optimal user experience for your website. Whether you need to revamp your existing site or create a new site from scratch, I'm ready to work with you to provide high-quality, custom web development solutions. Contact me to learn more about my web development services and how I can help you achieve your online goals.</p>
